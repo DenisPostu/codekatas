@@ -52,7 +52,7 @@ namespace csharp_conways_game_of_life
         }
     }
 
-    public static class UniverseExtenstions
+    public static class UniverseExtensions
     {
         public static TimeSpan GenerationLifespan = TimeSpan.FromMilliseconds(200);
         
